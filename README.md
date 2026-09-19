@@ -22,6 +22,10 @@ I focus on gameplay systems, client-server communication, UI scripting, data per
 ### 🛒 Shop System
 A Roblox shop system featuring an animated GUI, ScrollingFrame, and Gamepass purchasing.
 
+
+https://github.com/user-attachments/assets/b3774cab-3de0-4666-8933-82eaaadc95e4
+
+
 ### 💾 Player Data System
 A persistent player data system using DataStores, including Coins and Gems.
 
