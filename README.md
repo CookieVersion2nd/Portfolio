@@ -8,7 +8,7 @@ I focus on gameplay systems, client-server communication, UI scripting, data per
 
 A large-scale Roblox simulator built around a fully customizable, config-driven core loop — procedural generation, progression, and a shop system, all designed so values can be changed without touching the underlying logic.
 
-**👉 [See the full breakdown of Button Simulator here](./Button-Simulator.md)** — config-driven systems, live code, and video demos of every feature.
+**👉 [See the full breakdown of Button Simulator here](./Button-Simulator/)** — config-driven systems, live code, and video demos of every feature.
 
 **Highlights:**
 - Procedural button field generation with fully configurable spawn probabilities
