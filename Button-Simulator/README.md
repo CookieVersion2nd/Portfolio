@@ -37,7 +37,6 @@ end
 buttonModel:SetAttribute("RewardType", rewardType)
 ```
 
-[screenshot of the config table / module where button probabilities and types are defined]
 
 This is the system I'd point to first if you're evaluating whether I can build something you can keep adjusting after handoff — not just something that works once and is done.
 
@@ -59,8 +58,10 @@ local columns = math.floor(area.Size.X / spacingX)
 local rows = math.floor(area.Size.Z / spacingZ)
 ```
 
-[video of the field generating from an empty area — shows spacing/positioning happening live]
-[screenshot of a generated field with a visible mix of coin/gem/bomb buttons]
+
+https://github.com/user-attachments/assets/b17ba0b3-16fb-4b89-9c0e-4041c54aff97
+
+
 
 ## 🔄 Rebirth System
 
@@ -68,13 +69,19 @@ Rebirth requirements (coins, buttons pressed, etc.) are pulled from a shared con
 
 *UI provided by the client — scripting and functionality implemented by me.*
 
-[screenshot of the rebirth UI showing current requirements and progress]
+
+<img width="544" height="247" alt="image" src="https://github.com/user-attachments/assets/87c05156-60a7-4747-a38c-fc2beba2b87a" />
+<img width="523" height="257" alt="image" src="https://github.com/user-attachments/assets/ebea76d8-8934-4152-a775-0483b26dbb66" />
+
+
 
 ## ⚡ Upgrade Shop
 
 Tweened upgrade menu with animated UI transitions. Currently drives a speed upgrade, validated and applied through the same config-driven pattern as the rebirth system.
 
-[video of the upgrade shop — button press → tween animation → stat change]
+<img width="555" height="220" alt="image" src="https://github.com/user-attachments/assets/ee01b9ba-332c-498f-b258-37ffb93542e4" />
+<img width="521" height="218" alt="image" src="https://github.com/user-attachments/assets/682952e9-7cec-420e-8b9b-94b8aa900ca8" />
+
 
 ## 💾 Data Persistence
 
@@ -90,7 +97,6 @@ if success and currentGems then
 end
 ```
 
-[screenshot of the output window showing a successful data load/save during testing]
 
 ## 📊 Live Stats Display
 
