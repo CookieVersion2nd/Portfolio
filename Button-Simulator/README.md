@@ -1,6 +1,6 @@
 # 🧪 Button Simulator
 
-A Roblox simulator built around a fully customizable core loop — procedural generation, progression, and a shop system, all driven by configuration rather than hardcoded values. Development was paused before a full public release, but every system below is implemented and functional.
+A Roblox simulator built around a fully customizable core loop — procedural generation, progression, and a shop system, all driven by configuration rather than hardcoded values. Development was paused before a full public release, but the core systems described below are implemented and functional.
 
 **📦 Currently available for sale** — if you want to continue development or license the existing systems, DM me for details.
 
@@ -106,7 +106,18 @@ The entire button field clears and regenerates every 5 minutes, using the same g
 
 ## 🛠️ Technical Skills Demonstrated
 
-Luau · Roblox Studio · ModuleScripts · RemoteEvents · Client/Server Architecture · DataStores · GUI Scripting · TweenService · Attributes · Procedural Generation · Weighted Probability · Spatial Calculation
+- Luau
+- Roblox Studio
+- ModuleScripts
+- RemoteEvents
+- Client/Server Architecture
+- DataStores
+- GUI Scripting
+- TweenService
+- Attributes
+- Procedural Generation
+- Weighted Probability
+- Spatial Calculation
 
 ## 🎯 Development Focus
 
