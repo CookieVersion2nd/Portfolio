@@ -44,9 +44,22 @@ https://github.com/user-attachments/assets/81133d25-0e24-4354-bd25-6a510c93ca1e
 
 
 
-## Experimental Projects
+## Unfinished Projects
 
-Larger projects I worked on while learning and experimenting with Roblox development, though i couldnt complete them, you can check them out on the offical roblox HomePage
+Larger projects I worked on while learning and experimenting with Roblox development myself
 
-- Button Simulator
-- The Last Bus
+## 🔘 Button Simulator (In Development)
+[#-button-simulator-in-development](#-button-simulator-in-development)
+
+A large-scale Roblox simulator built around a fully customizable button system. This is my most ambitious project to date — actively developed, not abandoned.
+
+**Features:**
+- Procedural button field generation with fully configurable spawn probabilities
+- Support for adding new custom button types without touching core generation logic
+- Persistent data saving (progress, currency, inventory)
+- Rebirth/prestige system
+- Upgrade shop with purchasable progression boosts
+
+You can try the current build here: *[link to Roblox page]*
+
+> This project is still evolving — new button types, balancing, and shop items are added regularly.
