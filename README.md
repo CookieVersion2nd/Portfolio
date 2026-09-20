@@ -49,10 +49,11 @@ https://github.com/user-attachments/assets/81133d25-0e24-4354-bd25-6a510c93ca1e
 Larger projects I worked on while learning and experimenting with Roblox development myself
 
 ## 🔘 Button Simulator (In Development)
-[#-button-simulator-in-development](#-button-simulator-in-development)
 
-A large-scale Roblox simulator built around a fully customizable button system. This is my most ambitious project to date — actively developed, not abandoned.
+A larger experimental Roblox project showcasing procedural generation,
+configurable progression systems, DataStores, modular scripting, and more.
 
+[→ View Button Simulator](./Button-Simulator/)
 **Features:**
 - Procedural button field generation with fully configurable spawn probabilities
 - Support for adding new custom button types without touching core generation logic
