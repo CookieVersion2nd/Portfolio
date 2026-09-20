@@ -98,17 +98,16 @@ end
 ```
 
 
-## 📊 Live Stats Display
-
-Left-side UI panel showing coins, gems, rebirths, and buttons pressed, updating in real time as the player plays.
-
-[screenshot of the live stats panel mid-gameplay]
-
 ## ♻️ Field Regeneration
 
 The entire button field clears and regenerates every 5 minutes, using the same generation system above — so special buttons (already converted to normal after being pressed) get refreshed back into circulation automatically.
+(set to reseting every 2 seconds for video purposes)
 
-[video of a field regenerating — before/after the 5-minute reset]
+
+
+Uploading ButtonFieldRegenration.mp4…
+
+
 
 ## 🛠️ Technical Skills Demonstrated
 
