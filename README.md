@@ -51,5 +51,5 @@ https://github.com/user-attachments/assets/81133d25-0e24-4354-bd25-6a510c93ca1e
 
 ## Contact
 
-Interested in working together or continuing development on Button Simulator? DM me.
+Interested in hiring me for your games? DM me
 Discord: cookiev2_
